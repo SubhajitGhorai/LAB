@@ -21,8 +21,7 @@ public class AlphabetDigitOrSpecialCharacter {
 	        else
 
 
-	        System.out.println(k
-+ " is A special character");
+	        System.out.println(k+ " is A special character");
 
     }
  }
